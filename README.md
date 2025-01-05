@@ -1,4 +1,4 @@
-# 🔬 Diabetes Risk Analysis & Prediction 🚀
+# 🔬 Diabetes Analysis & Prediction 🚀
 
 ## About the Project 🎯
 

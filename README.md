@@ -42,8 +42,8 @@ Whether you're a beginner or an expert, this project demonstrates best practices
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/Diabetes_Risk_Analysis.git
-cd Diabetes_Risk_Analysis
+git clone https://github.com/Nishieee/DiaPredict.git
+cd DiaPredict
 ```
 
 ### Step 2: Create a Virtual Environment
@@ -86,26 +86,6 @@ pip install -r requirements.txt
 | **Logistic Regression** | 78.99%   | 73.19%    | 70.63% | 71.89%   | 83.86%  |
 | **Random Forest**       | 91.22%   | 94.35%    | 81.82% | 87.64%   | 97.69%  |
 | **XGBoost**             | 91.76%   | 93.08%    | 84.62% | 88.64%   | 98.41%  |
-
-### Confusion Matrices
-#### Logistic Regression
-![Logistic Regression CM](https://via.placeholder.com/800x400?text=Logistic+Regression+Confusion+Matrix)
-
-#### Random Forest
-![Random Forest CM](https://via.placeholder.com/800x400?text=Random+Forest+Confusion+Matrix)
-
-#### XGBoost
-![XGBoost CM](https://via.placeholder.com/800x400?text=XGBoost+Confusion+Matrix)
-
-### ROC Curves
-#### Logistic Regression
-![Logistic Regression ROC](https://via.placeholder.com/800x400?text=Logistic+Regression+ROC)
-
-#### Random Forest
-![Random Forest ROC](https://via.placeholder.com/800x400?text=Random+Forest+ROC)
-
-#### XGBoost
-![XGBoost ROC](https://via.placeholder.com/800x400?text=XGBoost+ROC)
 
 ---
 

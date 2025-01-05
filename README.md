@@ -1,9 +1,5 @@
 # 🔬 Diabetes Risk Analysis & Prediction 🚀
 
-![Diabetes Analysis Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diabetes_awareness_ribbon.svg/800px-Diabetes_awareness_ribbon.svg.png)
-
----
-
 ## About the Project 🎯
 
 The **Diabetes Risk Analysis & Prediction** project is a comprehensive end-to-end pipeline for identifying individuals at risk of diabetes using machine learning. This repository offers everything from data preprocessing and exploratory analysis to advanced model training and evaluation.

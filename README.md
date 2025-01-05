@@ -85,16 +85,3 @@ pip install -r requirements.txt
 
 ---
 
-## Contributing 🌟
-
-Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests to improve the project.
-
----
-
-## Future Directions 🌱
-- Introduce neural network models for deeper insights.
-- Optimize hyperparameters using grid and random search.
-- Incorporate more datasets for broader analysis.
-- Explore interpretability tools like SHAP and LIME.
-
----
